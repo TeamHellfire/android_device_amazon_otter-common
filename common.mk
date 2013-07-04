@@ -63,6 +63,7 @@ PRODUCT_PACKAGES += \
     librs_jni \
     com.android.future.usb.accessory \
     Superuser \
+    Halo \
     su
 
 # TI OMAP4
